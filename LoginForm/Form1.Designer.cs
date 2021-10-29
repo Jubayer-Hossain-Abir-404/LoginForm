@@ -43,6 +43,7 @@ namespace LoginForm
             // 
             // textUserName
             // 
+            this.textUserName.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textUserName.Location = new System.Drawing.Point(731, 87);
             this.textUserName.Multiline = true;
             this.textUserName.Name = "textUserName";
@@ -51,6 +52,7 @@ namespace LoginForm
             // 
             // textPassword
             // 
+            this.textPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textPassword.Location = new System.Drawing.Point(731, 152);
             this.textPassword.Multiline = true;
             this.textPassword.Name = "textPassword";
@@ -102,10 +104,10 @@ namespace LoginForm
             // textBox3
             // 
             this.textBox3.Font = new System.Drawing.Font("Modern No. 20", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox3.Location = new System.Drawing.Point(137, 42);
+            this.textBox3.Location = new System.Drawing.Point(114, 41);
             this.textBox3.Multiline = true;
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(117, 40);
+            this.textBox3.Size = new System.Drawing.Size(134, 40);
             this.textBox3.TabIndex = 5;
             this.textBox3.Text = "LOGIN";
             // 
